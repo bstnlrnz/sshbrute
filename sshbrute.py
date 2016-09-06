@@ -42,12 +42,3 @@ except:
     print "Could not open file"
 
 f.close()
-
-
-#b = True
-#while b:
-#    a = connect (host, user, password)
-#    if a == 0:
-#        b = False
-#    else:
-#        b = True
